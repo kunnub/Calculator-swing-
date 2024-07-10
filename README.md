@@ -1,2 +1,2 @@
 # Calculator-swing-
-Basic Claculator build using Java SWING Application 
+Basic Calculator build using Java SWING Application 
